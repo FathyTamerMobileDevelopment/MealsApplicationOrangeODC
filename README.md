@@ -14,6 +14,6 @@ MealsApplicationOrangeODC is a meals app developed as part of the OrangeODC lear
 This application allows users to explore a wide range of meal options, making it easier to find recipes and learn how to prepare them. It's built with a focus on user-friendly navigation and clean UI.
 
 ## How to Use
-1.Clone the repository.
-2.Open the project in Android Studio.
-3.Build and run the app on your emulator or Android device.
+1. Clone the repository.
+2. Open the project in Android Studio.
+3. Build and run the app on your emulator or Android device.
